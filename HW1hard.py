@@ -10,7 +10,7 @@ while True:
 
     c = "да"
     if c == a:
-        print("фыв")
+        print("Хорошо,продолжим.")
         break
     else:
         print("введите корректные данные")
